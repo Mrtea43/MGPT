@@ -205,4 +205,4 @@ Created with modern web technologies and a focus on user experience.
 
 ---
 
-**Enjoy chatting with MertGPT!** 🤖✨
+**Enjoy chatting with MGPT!** 🤖✨
