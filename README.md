@@ -1,4 +1,4 @@
-# MertGPT - Modern AI Chat Interface
+# MGPT - Modern AI Chat Interface
 
 A clean, modern, and responsive chat interface with API key integration for AI conversations. Features a beautiful dark theme design with smooth animations and an intuitive user experience.
 
